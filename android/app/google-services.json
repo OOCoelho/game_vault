@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26873241219",
+    "project_id": "ogame-vault",
+    "storage_bucket": "ogame-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26873241219:android:511533b1de390927e905b6",
+        "android_client_info": {
+          "package_name": "com.example.game_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26873241219-btd2hbjtu56dmns69sk3jg73ts56af36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6EOe7RjfKmXwySIHJxjB7zQcWKitZinU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26873241219-btd2hbjtu56dmns69sk3jg73ts56af36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
