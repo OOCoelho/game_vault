@@ -6,15 +6,6 @@
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%2B%20Auth-FFCA28?logo=firebase)
 ![RAWG API](https://img.shields.io/badge/API-RAWG.io-blueviolet)
-
----
-
-## 📱 Sobre o Projeto
-
-O **GameVault** é um aplicativo mobile desenvolvido em Flutter como projeto acadêmico do curso de Engenharia de Software do **Uni-FACEF**. O app consome dados da API pública **RAWG.io** para exibir um catálogo completo de jogos com informações técnicas detalhadas, galeria de mídia, requisitos de sistema, lojas onde o jogo pode ser comprado e integração com Firebase para autenticação e lista de desejos pessoal.
-
----
-
 ## ✨ Funcionalidades
 
 - 🔐 **Login com Google** via Firebase Authentication
