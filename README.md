@@ -1,6 +1,6 @@
 # 🎮 GameVault
 
-> Biblioteca pessoal de jogos com estética inspirada na Steam e Hydra Launcher.
+> Biblioteca pessoal de jogos
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)
