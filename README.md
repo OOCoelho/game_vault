@@ -21,7 +21,6 @@ O **GameVault** é um aplicativo mobile desenvolvido em Flutter como projeto aca
 - 🏠 **Home Page** com lista paginada de jogos populares
 - 🔍 **Busca** por nome com modo exato e amplo
 - 🎛️ **Filtros laterais** por gênero, plataforma e tipo de jogo
-- 📅 **Jogos em breve** com filtro dedicado
 - 🎮 **Página do Jogo** com:
   - Classificação etária (ESRB)
   - Nota Metacritic
@@ -190,20 +189,6 @@ dependencies:
   firebase_auth: ^5.1.0
   cloud_firestore: ^5.1.0
   google_sign_in: ^6.2.1
-```
-
----
-
-## 🎓 Informações Acadêmicas
-
-- **Instituição:** Uni-FACEF — Centro Universitário Municipal de Franca
-- **Curso:** Engenharia de Software
-- **Disciplina:** Desenvolvimento Mobile
-- **Aluno:** João (OOCoelho)
-
----
-
-## 📄 Créditos
 
 - Dados de jogos fornecidos por **[RAWG.io](https://rawg.io)**
 - Tempo de conclusão por **[HowLongToBeat](https://howlongtobeat.com)**
